@@ -227,8 +227,8 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
+  padding-top: 0rem;
+  margin-top: 0rem;
   border-top: solid 1px #eff0f1; }
 
 .site-footer-owner {
@@ -236,7 +236,8 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #819198;
+  font-size: 0.8rem; }
 
 @media screen and (min-width: 64em) {
   .site-footer {
