@@ -4,7 +4,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
@@ -141,6 +141,8 @@ a {
     white-space: pre;
     background: transparent;
     border: 0; }
+.main-content .bold {
+  font-weight: bold; }
 .main-content .highlight {
   margin-bottom: 1rem; }
   .main-content .highlight pre {
